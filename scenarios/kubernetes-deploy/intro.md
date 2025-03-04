@@ -1,4 +1,4 @@
-Welcome !
-In this scenario we'll learn how to list all pods in the cluster.
+¡Bienvenido!
+En este escenario aprenderemos cómo interactuar con un clúster de Kubernetes.
 
-HAVE FUN
+¡DIVIÉRTETE!
