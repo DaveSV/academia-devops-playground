@@ -1,17 +1,19 @@
 {
-    "title": "Despliegue en Kubernetes",
-    "description": "Aprende a desplegar aplicaciones en Kubernetes con Minikube.",
+    "title": "Kubernetes 1node",
+    "description": "Use a simple one node Kubernetes cluster and let user list all pods",
     "details": {
+      "intro": {
+        "text": "intro.md"
+      },
       "steps": [
         {
-          "title": "Iniciando Minikube",
-          "text": "Ejecuta `minikube start` para iniciar un cluster local."
-        },
-        {
-          "title": "Desplegando una aplicación",
-          "text": "Ejecuta `kubectl apply -f deployment.yaml` para desplegar la app."
+          "title": "List all pods",
+          "text": "step1.md"
         }
-      ]
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
     },
     "backend": {
       "imageid": "kubernetes-kubeadm-1node"
