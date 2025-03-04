@@ -10,7 +10,7 @@
       ]
     },
     "backend": {
-      "imageid": "ubuntu:latest"
+      "imageid": "linux"
     }
   }
   

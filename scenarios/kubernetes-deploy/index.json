@@ -14,7 +14,7 @@
       ]
     },
     "backend": {
-      "imageid": "kubernetes:latest"
+      "imageid": "kubernetes"
     }
   }
   
