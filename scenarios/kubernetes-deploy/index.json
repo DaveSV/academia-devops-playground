@@ -1,0 +1,20 @@
+{
+    "title": "Despliegue en Kubernetes",
+    "description": "Aprende a desplegar aplicaciones en Kubernetes con Minikube.",
+    "details": {
+      "steps": [
+        {
+          "title": "Iniciando Minikube",
+          "text": "Ejecuta `minikube start` para iniciar un cluster local."
+        },
+        {
+          "title": "Desplegando una aplicación",
+          "text": "Ejecuta `kubectl apply -f deployment.yaml` para desplegar la app."
+        }
+      ]
+    },
+    "backend": {
+      "imageid": "kubernetes:latest"
+    }
+  }
+  

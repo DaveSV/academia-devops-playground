@@ -1,0 +1,16 @@
+{
+    "title": "Entorno Linux Básico",
+    "description": "Un entorno de práctica con Linux basado en Ubuntu.",
+    "details": {
+      "steps": [
+        {
+          "title": "Introducción",
+          "text": "¡Bienvenido al entorno Linux! Prueba comandos como `ls`, `pwd`, `cd`, etc."
+        }
+      ]
+    },
+    "backend": {
+      "imageid": "ubuntu:latest"
+    }
+  }
+  

@@ -1,0 +1,9 @@
+title: "Academia DevOps Playground"
+description: "Escenarios interactivos para aprender Linux y Kubernetes"
+scenarios:
+  - title: "Linux Básico"
+    description: "Prueba comandos en un entorno Ubuntu interactivo."
+    path: "scenarios/linux-basico"
+  - title: "Despliegue en Kubernetes"
+    description: "Configura un clúster Minikube y despliega una aplicación."
+    path: "scenarios/kubernetes-deploy"
