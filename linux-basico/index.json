@@ -1,0 +1,13 @@
+{
+    "title": "Linux Ubuntu",
+    "description": "Un entorno de Ubuntu listo para ejecutar comandos.",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      }
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
+  
